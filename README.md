@@ -8,8 +8,8 @@ We created and manipulated Pandas DataFrames to analyze school and standardized 
 
 ## Background
 
-Every student's math and reading scores, school informations are provided in [schools_complete](PyCitySchools/Resources/schools_complete) and [students_complete](PyCitySchools/Resources/students_complete) files, as well as various information on the schools budgets. 
-This [script](PyCitySchools/PyCitySchools_starter.ipynb) aggregate the data to showcase obvious trends in school performance.
+Every student's math and reading scores, school informations are provided in [schools_complete.csv](PyCitySchools/Resources/schools_complete.csv) and [students_complete.csv](PyCitySchools/Resources/students_complete.csv) files, as well as various information on the schools budgets. 
+This [PyCitySchools.ipynb](PyCitySchools/PyCitySchools.ipynb) aggregate the data to showcase obvious trends in school performance.
 
 ## Instructions
 
